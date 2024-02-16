@@ -1,4 +1,4 @@
-# NSDL-in-RS
+# NSDL4EO
 ## Paper
 Link to the paper: 
 
