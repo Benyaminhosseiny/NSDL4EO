@@ -533,6 +533,6 @@ If you find this work useful, please cite us in your work:
 | 503 | [Unsupervised Deep Learning for Random Noise Attenuation of Seismic Data](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122489730&doi=10.1109%2fLGRS.2021.3057631&partnerID=40&md5=ba9d9428c5c9f3a76df4c6c1472dac79) | IEEE GRSL | 2022 | | unsupervised | | | | | Denoising |
 | 504 | [Image restoration for optical synthetic aperture system via patched maximum–minimum intensity prior and unsupervised DenoiseNet](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139079667&doi=10.1016%2fj.optcom.2022.128961&partnerID=40&md5=452e5101edbc67fc50f91a9753e7d3cb) | Optics Communications | 2022 | | unsupervised | | | | | Denoising |
 | 505 | [Hypergraph Regularized Deep Autoencoder for Unsupervised Unmixing HSI Images](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159906489&doi=10.19884%2fj.1672-5220.202201002&partnerID=40&md5=e0288501909b45d3efc7101b68cf7ef6) | Journal of Donghua University (English Edition) | 2022 | | unsupervised | | HSI | | | Unmixing |
-
+| 506 | [Near Real-Time Flood Mapping with Weakly Supervised Machine Learning](https://www.mdpi.com/2072-4292/15/13/3263) | Remote Sensing | 2023 | [Codes](https://github.com/vongkusolkit/bitemporalUNet) | Weakly Supervised | | RGB-IR | HR | | Flood |
 
 
