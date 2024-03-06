@@ -25,7 +25,7 @@ If you find this work useful, please cite us in your work:
 
 [//]: <> (Excel tables to Markdown tables: https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
 
-| # | Document Title | Journal | Year | Data/Code | Learning method | Loss function | Data | ResoLution | Area | Target |
+| # | Document Title | Journal | Year | Data/Code | Learning method | Loss function | Data | Resolution | Area | Target |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 510 | [Forest Disturbance Detection via Self-supervised and Transfer Learning with Sentinel-1&2 Images](https://hal.science/hal-04084839/) | IEEE JSTARS | 2024 | [Codes](https://src.koda.cnrs.fr/iris.dumeur/ssl_ubarn) | Self-Supervised | Reconstruction | MSI (S2) | MR | | Classification |
 | 509 | [Forest Disturbance Detection via Self-supervised and Transfer Learning with Sentinel-1&2 Images](https://ieeexplore.ieee.org/document/10418469) | IEEE JSTARS | 2024 | [Codes](https://github.com/ridvansalihkuzu/representlib) | Self-Supervised | Contrastive | Multisensor (S1&S2) | MR | | Forest Change |
